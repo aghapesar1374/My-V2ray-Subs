@@ -27,3 +27,4 @@ vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?security=&type=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#t.me/peterjest
 vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=&type=tcp&headerType=http&host=myket.ir/?JOKERRVPNBIA_CHANEL@JOKERRVPN&encryption=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A6%F0%9F%87%B9%20AT-46.102.157.79:58096
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=&type=tcp&headerType=http&host=zula.ir&encryption=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.99.160.13:443
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:23835?security=&type=tcp&headerType=http&host=cloud.ir&encryption=none#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.177.156:23835
