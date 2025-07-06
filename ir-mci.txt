@@ -100,15 +100,12 @@ vless://39051b26-3165-4898-a552-c777a89aaf10@78.157.49.210:32197?security=&encry
 vless://addbd8bc-dcf1-4a24-9eef-25639a32b47b@104.18.26.90:2053?path=%2Flatest%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=lexi.ai351.com&fp=chrome&type=ws&sni=lexi.ai351.com#NetAccount
 vless://2256470f-0997-4a6e-8f95-4a48a633b9ae@www.speedtest.net:443?mode=auto&path=%2FdhdtghInvqecasdRT&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=gr2.pezesh-kian.com&fp=random&type=xhttp&sni=gr2.pezesh-kian.com#NetAccount
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#NetAccount
-
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ%3D%3D@185.215.186.65:8388#NetAccount
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#NetAccount
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3D%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#NetAccount
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=%2F%3Fed%3D%23TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3D%3Fed%3D2560&security=tls&encryption=none&host=rayan-supra.parisa.dpdns.org&type=ws&sni=rayan-supra.parisa.dpdns.org#NetAccount
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#NetAccount
-vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#NetAccount
 hysteria2://ce26fc79-0a57-46ed-a67a-149fcf523cb1@152.69.226.231:55215?security=tls&insecure=1&sni=shy23.zqjc.cloud#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B0%F0%9F%87%B7%20KR-152.69.226.231%3A55215
 hysteria2://b4dd408a-542d-4898-8d43-47dcad8255e8@129.150.40.3:23587?security=tls&insecure=1&sni=anycast.us.kg#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B8%F0%9F%87%AC%20SG-129.150.40.3%3A23587
 hysteria2://J4MF5gYLAejSsZA1b0T3djeNGoI@44.243.233.105:16523?security=tls&insecure=1&sni=bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-44.243.233.105%3A16523
@@ -122,7 +119,6 @@ hysteria2://dongtaiwang.com@45.129.2.108:50850?security=tls&insecure=1&sni=www.b
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@129.153.59.124:54530?security=tls&insecure=1&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A8%F0%9F%87%A6%20CA-129.153.59.124%3A54530
 hysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@27.102.138.202:443?security=tls&insecure=0&mport=30601-30699&sni=hg.myyfqh.tech#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B0%F0%9F%87%B7%20KR-27.102.138.202%3A443
 hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.241:443?security=tls&insecure=1&mport=20000-55000&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-108.181.23.241%3A443
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#NetAccount
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#NetAccount
 vmess://eyJhZGQiOiI2Mi42MC4xNzkuNTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdDEuaXJhbmNlbGwuaXIiLCJpZCI6IjU2MTZlYzhlLTM4Y2UtMDAzZi04MzhlLTdiYTA5MDA4NDVhYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODA4MCIsInBzIjoiTmV0QWNjb3VudCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.18.26.90:8880?path=%2F&security=&encryption=none&host=kk195.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=httpupgrade#NetAccount
