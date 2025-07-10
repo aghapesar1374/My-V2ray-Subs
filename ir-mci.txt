@@ -202,3 +202,14 @@ vless://telegram-id-ArV2ray@104.18.26.90:80?path=%2F-Arfilter%40Arfilter-TEL--%4
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.18.26.90:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&type=ws&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#%40NetAccount
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@199.34.229.247:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=ex.sue.x10.mx&type=ws&sni=ex.sue.x10.mx#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D
 
+
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@192.200.160.247:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=ex.sue.x10.mx&type=ws&sni=ex.sue.x10.mx#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D
+
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.194.0.247:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=ex.sue.x10.mx&type=ws&sni=ex.sue.x10.mx#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D
+
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.138.63:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D
+
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@5.10.215.77:8880?path=%2F&security=&encryption=none&host=free.cfdns.online&type=ws&sni=Telegram-channel-WangCai2#DE_speednode_0008
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@91.84.104.133:2222#%E6%9C%AA%E7%9F%A5163
+
