@@ -17,3 +17,12 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=&encrypt
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&security=&encryption=none&type=ws#%40NetAccount
 trojan://2ee85121-31de-4581-a492-eb00f606e392@51.81.203.233:443?security=tls&headerType=&type=tcp&sni=rs4.freeguard.org#%40NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg%3D%3D@83.147.18.163:8388#%40NetAccount
+
+
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2F1ycR2zb3KeELWRha%3Fed%3D2560&security=&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#sadegh2
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&security=&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#sadegh1
+vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#sadegh3
+vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=%2F&security=&encryption=none&type=ws#sadegh7
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&headerType=none&type=tcp#sadegh4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg%3D%3D@83.147.18.163:8388#sadegh5
+vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&security=&encryption=none&type=ws#sadegh7
