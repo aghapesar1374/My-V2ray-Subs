@@ -54,3 +54,5 @@ vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:
 vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@gleeful-error.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#68_Salavat_Befrest
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#69_Salavat_Befrest
 
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-12.access.name.ng&type=ws&sni=lease-12.access.name.ng#70_Salavat_Befrest
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-20.access.name.ng&fp=chrome&type=ws&sni=lease-20.access.name.ng#71_Salavat_Befrest
