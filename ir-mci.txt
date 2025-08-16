@@ -58,3 +58,4 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&sec
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-20.access.name.ng&fp=chrome&type=ws&sni=lease-20.access.name.ng#71_Salavat_Befrest
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#73_Salavat_Befrest
 
+vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@157.173.127.227:443?security=reality&encryption=none&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=40e3350da285#74_Salavat_Befrest
