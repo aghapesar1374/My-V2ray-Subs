@@ -77,3 +77,7 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.159:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#SiNAVM-reality-476d90e5
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.175:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#SiNAVM-reality-66d2e09a
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.149:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#SiNAVM-reality-9fe30c71
+
+
+vless://2af42331-d568-4c59-e901-43538adc15bc@167.71.6.210:443?security=reality&encryption=none&pbk=tlL_KDqFm3pui8hPgP_mPESI2_jsOHH8M22SOzbCBg8&fp=safari&spx=%2F&type=grpc&sni=yahoo.com#Netherlands%20D-82
+vless://c5d4663f-7269-467a-845b-df0b598c97cb@159.89.111.249:443?security=reality&encryption=none&pbk=7IA4g4DLPVaF-_NcwOad2yoii_ottvEy3_7KctdeaSc&fp=safari&spx=%2F&type=grpc&sni=yahoo.com#Germany%20D-82
